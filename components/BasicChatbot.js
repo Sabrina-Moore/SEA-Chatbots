@@ -8,8 +8,8 @@ import { syfyPrompt } from "./syfyPrompt";
 
 const CHATBOT_USER_OBJ = {
   _id: 2,
-  name: "React Native Chatbot",
-  avatar: "https://loremflickr.com/140/140",
+  name: "NASA Trivia Game",
+  avatar: "https://www.nasa.gov/wp-content/uploads/2023/04/nasa-logo-web-rgb.png",
 };
 
 

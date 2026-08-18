@@ -4,8 +4,8 @@ import {SafeAreaView, SafeAreaProvider} from 'react-native-safe-area-context';
 
 const CHATBOT_USER_OBJ = {
   _id: 2,
-  name: "Lord of the Rings Trivia",
-  avatar: "https://pbs.twimg.com/media/GTWL8NKW0AAOAE-.jpg",
+  name: "Space Trivia",
+  avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwCplmze5eK_trm4EOf2YbrWZhdpuEBYSTuS1WMtw4Q&s=10",
 };
 
 //--------------------------------------------------------------------

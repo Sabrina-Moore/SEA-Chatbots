@@ -25,7 +25,7 @@ export const CHATBOTS = {
     index: 4, 
     id: "BasicChatbot",
     name: "NASA Trivia Game",
-    developer: "default",
+    developer: "OpenAI",
     imageUrl: "https://www.nasa.gov/wp-content/uploads/2023/04/nasa-logo-web-rgb.png",
     component: BasicChatbot,
   },
