@@ -1,30 +1,27 @@
-# Combining Spotify Navigation Lab and Triviachat Lab
+# Snapchat chatbots
 
-In this lab, we're going to be combining the two labs we worked on last week. Instead of a list of songs that can be pressed to view song details, you'll end up with a list of conversations/chatbots that can be pressed to open up that conversation!
+## About
 
-### Setup Repository
-
-1. Click "Use as Template" and use the name "snapchatbots-yourname"
-2. Clone from your new repo into your desired folder with terminal
-3. Open the project code in VSCode (use `code .` if you can)
-4. Open terminal in the VSCode window then run `npm install` to install packages
-5. Launch the project with `npx expo start`
-
-You do not need to setup Spotify because the "songs" are now chatbots!
-
-## Milestones
-In the scholar Milestone repo follow the steps for Combining Spotify Navigation Lab and Triviachat Lab.
+I made a React Native that combines a hard-coded trivia chatbot using an array of questions and answers, and an OpenAI chatbot that follows a prompt on how to play its trivia game. 
 
 
-## Changes
-Deleted defunct empty files: SongScreen.js. 
-Removed  albumName and duration from song.js
-removed const tempTracks from HomeScreen
-Need to fix developer to accurate other
-Need to fix album cover resizing
-Need to fix terminology (songs to chat, artist to designer)
+## Features
+
+Space Trivia chatbot (based on SEA trivia-chat)
+
+https://github.com/user-attachments/assets/5c6edc74-1e9a-4340-9ac7-79d5676529ed
 
 
-Updated prompt and trivia game to both be space related for uniformity. 
+OpenAI NASA trivia chatbot
+
+
+https://github.com/user-attachments/assets/4ec4a03b-3a9c-4aca-8f49-0730adc3186e
+
+
+
+
+### Tech Stack
+
+
 
 
