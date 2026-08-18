@@ -31,7 +31,8 @@ https://github.com/user-attachments/assets/4ec4a03b-3a9c-4aca-8f49-0730adc3186e
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Tech Stack
-
+- <a href="https://reactnative.dev/"> <img src="https://skillicons.dev/icons?i=react" alt="Tech Stack Icons" width="20" height="20" align="center" alt="React Native" /></a> **React** 
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" align="center" alt="JavaScript" /></a> **JavaScript**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
